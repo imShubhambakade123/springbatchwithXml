@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+ <employee>
+     <id>1</id>
+     <firstName>shubham</firstName>
+     <lastName>Bakade</lastName>
+     <emailAddress>shubhambakade@gmail.com</emailAddress>
+ </employee>
+  <employee>
+     <id>2</id>
+     <firstName>Anoop</firstName>
+     <lastName>Dubey</lastName>
+     <emailAddress>anoop@gmail.com</emailAddress>
+ </employee>
+  <employee>
+     <id>3</id>
+     <firstName>Ajinkya</firstName>
+     <lastName>Sheth</lastName>
+     <emailAddress>ajinkya@gmail.com</emailAddress>
+ </employee>
+ <employee>
+     <id>4</id>
+     <firstName>Bhavik</firstName>
+     <lastName>Panchmiya</lastName>
+     <emailAddress>bhavik@gmail.com</emailAddress>
+ </employee>
+ </employees>
